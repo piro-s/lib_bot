@@ -1,6 +1,20 @@
+## lib_bot  
 Bot to access the library for normal users (contained in players) and its hidden sections (if any) for the main user.  
 
 ---
+### Result of work  
++ Go to main  
+[![main](images/main_preview.png)](images/main.png)  
+
++ Go to dir  
+[![dir](images/dir_preview.png)](images/dir.png)  
+
++ Get file  
+[![file](images/file_preview.png)](images/file.png)  
+
+
+---
+### Install  
 To start using this bot:  
 
 1. Create file list for files larger than 49MB:  
